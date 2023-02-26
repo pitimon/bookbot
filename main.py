@@ -1,3 +1,7 @@
+"""
+follow boot.dev learning
+Feb 26,2023
+"""
 book_path = "books/frankenstein.txt"
 
 
